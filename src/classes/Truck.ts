@@ -34,7 +34,7 @@ import AbleToTow from '../interfaces/AbleToTow.js';
       weight: number,
       topSpeed: number,
       wheels: Wheel[],
-      towingCapacity: number
+      towingCapacity: number,
     ) {
       super(); // Call the constructor of the Vehicle class
       this.vin = vin;
