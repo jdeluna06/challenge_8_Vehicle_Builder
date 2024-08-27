@@ -38,7 +38,7 @@ SO THAT I am able to comprehend and work with existing code bases.
 ## Installation
 
 1. **Clone the Repository:**
-   git clone https://github.com/your-username/vehicle-management-cli.git
+   git clone https://github.com/jdeluna06/challenge_8_Vehicle_Builder
 cd vehicle-management-cli
 
 2. **Install Dependencies:**
