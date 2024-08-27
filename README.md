@@ -52,7 +52,7 @@ Run the Application:
 ## Walkthrough Video
 For a detailed walkthrough of how the application works, please refer to the video linked below:
 
-
+https://drive.google.com/file/d/1ky-n3V74gLQvkJEDXHWh3X-SYTSXQpVe/view?usp=sharing
 
 ## User Story
 
